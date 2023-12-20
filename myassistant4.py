@@ -3,7 +3,7 @@ import pyttsx3
 import datetime
 
 import requests
-from weatherKey import KEY_WEATHER
+from weatherKey import KEY_WEATHER #You need to get a key 
 
 es = "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-ES_HELENA_11.0"
 
